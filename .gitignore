@@ -1,6 +1,8 @@
 # Created by https://www.gitignore.io/api/vim,c,cmake
 # Edit at https://www.gitignore.io/?templates=vim,c,cmake
 
+build/
+
 ### C ###
 # Prerequisites
 *.d
